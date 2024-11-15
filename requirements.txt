@@ -1,0 +1,13 @@
+
+django
+
+
+scikit-learn
+
+wordcloud
+matplotlib
+jieba
+numpy
+lxml
+
+
